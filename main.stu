@@ -1,0 +1,6 @@
+@all: index-mh.qmd;
+
+>index-mh.qmd: README.md header.yaml
+{
+    cat header.yaml README.md
+}

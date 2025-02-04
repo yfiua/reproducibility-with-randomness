@@ -1,3 +1,20 @@
+---
+title: Tutorial on reproducibility with randomness
+author:
+  - name:
+      given: Jun
+      family: Sun
+    email: jun.sun@gesis.org
+    orcid: 0000-0002-4789-7316
+    affiliations:
+      - name: "GESIS - Leibniz Institute for the Social Sciences"
+csl: apa.csl
+format:
+  html: default
+  ipynb: default
+license: Apache-2.0
+---
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yfiua/reproducibility-with-randomness/HEAD?labpath=main.ipynb)
 
 # Tutorial on reproducibility with randomness
