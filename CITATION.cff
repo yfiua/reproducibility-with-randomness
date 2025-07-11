@@ -1,0 +1,19 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Tutorial on reproducibility with randomness
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Jun
+    family-names: Sun
+    affiliation: GESIS - Leibniz Institute for the Social Sciences
+    email: jun.sun@gesis.org
+    orcid: 'https://orcid.org/0000-0002-4789-7316'
+repository-code: 'https://github.com/yfiua/reproducibility-with-randomness'
+license: Apache-2.0
+commit: d8ecb22
+date-released: '2025-07-11'
